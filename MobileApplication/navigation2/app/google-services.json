@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "593744590103",
+    "firebase_url": "https://projectloginnaati-default-rtdb.firebaseio.com",
+    "project_id": "projectloginnaati",
+    "storage_bucket": "projectloginnaati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593744590103:android:399ba78aada93b490ab352",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXEW9L_YwXj0Mk2Ot6dWltZyxKvIzLg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593744590103:android:f9bcc71cae345c850ab352",
+        "android_client_info": {
+          "package_name": "com.example.navigation2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXEW9L_YwXj0Mk2Ot6dWltZyxKvIzLg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
